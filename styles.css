@@ -5,11 +5,11 @@ body {
 }
 
 header {
-
-    width: 100%;
-    display: flex;
-    flex-shrink: 0;
-
+     width: 100%;
+    height: 650px;
+    background-image: url("folder/1.png");
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 
 .first-img {
